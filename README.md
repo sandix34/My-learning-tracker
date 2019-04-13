@@ -33,7 +33,8 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**Node.js**                       |                   |               |               |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |        |
 |**SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |          .      |
+|**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
+|**OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -54,10 +55,10 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [OpQuast](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7            | [Udemy](https://www.udemy.com/javascript-es6-es7/)|
 | ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript                     | [Udemy](https://www.udemy.com/comprendre-javascript/) |
-| ![Completed][Completed]     | Février 2019     | Symfony, React, Wordpress                               | [O' Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | Conception Base de Donnée, JQuery, AJAX                 | [O' Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | POO, AJAX, Git                                          | [O' Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Décembre 2018    | Architecture Modèle-vue-contrôleur (MVC), SQL, Bootstrap  | [O' Clock](https://oclock.io/) |
-| ![Completed][Completed]     | Décembre 2018    | JS, jQuery, SEO, Opquast                                | [O' Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | PHP                                                     | [O' Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git                           | [O' Clock](https://oclock.io/)     |
+| ![Completed][Completed]     | Février 2019     | Symfony, React, Wordpress                               | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | Conception Base de Donnée, JQuery, AJAX                 | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | POO, AJAX, Git                                          | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Décembre 2018    | Architecture Modèle-vue-contrôleur (MVC), SQL, Bootstrap  | [O 'Clock](https://oclock.io/) |
+| ![Completed][Completed]     | Décembre 2018    | JS, jQuery, SEO, Opquast                                | [O 'Clock](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | PHP                                                     | [O 'Clock](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git                           | [O 'Clock](https://oclock.io/)     |
