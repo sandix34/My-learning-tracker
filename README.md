@@ -78,6 +78,8 @@ Je suis actuellement intéressé par:
 
 Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise du développement Web.
 
+Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/ginnyfahs) [ "Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
+
 * [x] Ouvrrir le terminal de l'ordinateur
 * [x] Utilisez un éditeur de texte (Vscode)
 * [x] Utilisez des raccourcis clavier
