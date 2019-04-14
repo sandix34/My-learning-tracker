@@ -52,13 +52,51 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 | ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z                                | [GEOMATICK](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
 | ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers                 | [GEOMATICK](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
 | ![In Progress][In Progress] | Avril 2019       | Formation en ligne React                                | [Dyma](https://dyma.fr/)              |
-| ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [OpQuast](https://www.opquast.com/formation/)
+| ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [Opquast](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7            | [Udemy](https://www.udemy.com/javascript-es6-es7/)|
 | ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript                     | [Udemy](https://www.udemy.com/comprendre-javascript/) |
-| ![Completed][Completed]     | Février 2019     | Symfony, React, Wordpress                               | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | Conception Base de Donnée, JQuery, AJAX                 | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | POO, AJAX, Git                                          | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Décembre 2018    | Architecture Modèle-vue-contrôleur (MVC), SQL, Bootstrap  | [O 'Clock](https://oclock.io/) |
-| ![Completed][Completed]     | Décembre 2018    | JS, jQuery, SEO, Opquast                                | [O 'Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | PHP                                                     | [O 'Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git                           | [O 'Clock](https://oclock.io/)     |
+| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress                               | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen                 | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                                          | [O 'Clock](https://oclock.io/)  |
+| ![Completed][Completed]     | Décembre 2018    | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile  | [O 'Clock](https://oclock.io/) |
+| ![Completed][Completed]     | Décembre 2018    | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                | [O 'Clock](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | JavaScript ES5                                                     | [O 'Clock](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | PHP, Templating                           | [O 'Clock](https://oclock.io/)     |
+| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design | [O 'Clock](https://oclock.io/)     |
+
+----
+
+## Intérêts
+
+Je suis actuellement intéressé par:
+
++ React
++ webmapping avec OpenLayers
+
+----
+### Liste de contrôle de développement Web
+
+Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise du développement Web.
+
+* [x] Ouvrrir le terminal de l'ordinateur
+* [x] Utilisez un éditeur de texte (Vscode)
+* [x] Utilisez des raccourcis clavier
+* [ ] Écrire des tests pour votre code
+* [ ] Aidez un autre développeur Web à résoudre un problème
+* [ ] Assistez à un événement sur le développement Web
+* [x] Suivre les développeurs que l'on admire sur les médias sociaux
+* [ ] Lire un livre sur le codage
+* [x] Ouvrir la console de votre navigateur
+* [x] Obtenir des données d'une API
+* [ ] Masquer les clés API du public
+* [ ] Posez une question sur Stack Overflow
+* [x] Code Push vers GitHub
+* [ ] Parlez de quelque chose lié au développement web lors d'un événement
+* [ ] Remplir un entretien technique
+* [ ] Participer à un hackathon
+* [ ] Déployer un projet
+* [ ] Contribuer à l'open source
+* [ ] Soyez payé pour coder
+* [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous êtes développeur :)
+* [x] Travailler en Pair Programming
+
