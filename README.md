@@ -10,31 +10,31 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 
 |               Compétence              | 1<br>Introduction | 2<br>Bases   | 3<br>bien     | 4<br>très bien | 5<br>confiante | 6<br>génial    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     |               |               |                  |                |                 |
-|**Redux**                         |                   |               |               |                  |                |                 |        |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |        |
-|**Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
+|**![](/logo-html.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**![](/logo-css.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**![](/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**![](/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](/logo-react1.png) React**                         | ![done][done]     |               |               |                  |                |                 |
+|**![](/logo-redux1.png) Redux**                         |                   |               |               |                  |                |                 |        |
+|**![](/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
+|**![](/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |        |
+|**![](/logo-webpack.png) Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
 |**Travailler avec des API**             | ![done][done]     |               |               |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](/logo-jquery3.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**![](/logo-markdown.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Construction de site Web**      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Déployer un site web**          | ![done][done]     |             |               |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       |                   |               |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |        |
+|**![](/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**![](/logo-terminal.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**![](/logo-node.png) Node.js**                       |                   |               |               |                  |                |                 |
+|**![](/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |        |
 |**SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](/logo-openlayers.png) OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -45,23 +45,23 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Année   | Cours                                                         |                Tuteur                        |
+|            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Soon][Soon] |  2019       | Formation en ligne NodeJs                               | [Dyma](https://dyma.fr/)              |
-| ![Soon][Soon] |  2019       | Formation en ligne Redux                                | [Dyma](https://dyma.fr/)              |
-| ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z                                | [GEOMATICK](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
-| ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers                 | [![Geomatick](/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
-| ![In Progress][In Progress] | Avril 2019       | Formation en ligne React                                | [![Dyma](/logo-dyma.png)](https://dyma.fr/)              |
+| ![Soon][Soon] |  2019       | Formation en ligne NodeJs     | [![Dyma](/logo-dyma.png)](https://dyma.fr/) |
+| ![Soon][Soon] |  2019       | Formation en ligne Redux      | [![Dyma](/logo-dyma.png)](https://dyma.fr/) |
+| ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z | [![Geomatick](/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
+| ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
+| ![In Progress][In Progress] | Avril 2019       | Formation en ligne React | [![Dyma](/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](/logo-opquast.png)](https://www.opquast.com/formation/)
-| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7            | [![Udemy](/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
-| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript                     | [![Udemy](/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
-| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress                               | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen                 | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
+| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
+| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
 | ![Completed][Completed]     | Janvier 2019     | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                                          | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
 | ![Completed][Completed]     | Décembre 2018    | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile  | [![O 'Clock](/logo-oclock.png)](https://oclock.io/) |
-| ![Completed][Completed]     | Décembre 2018    | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | JavaScript ES5                                                     | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | PHP, Templating                           | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)     |
+| ![Completed][Completed]     | Décembre 2018    | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | JavaScript ES5  | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Novembre 2018    | PHP, Templating | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)   |
 | ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)     |
 
 ----
