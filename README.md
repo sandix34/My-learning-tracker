@@ -25,11 +25,11 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
-|**![](/logo-markdown.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**![](/logo-markdown6.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Construction de site Web**      | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Déployer un site web**          | ![done][done]     |             |               |                  |                |                 |
 |**![](/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](/logo-terminal.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**![](/logo-terminal3.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](/logo-node.png) Node.js**                       |                   |               |               |                  |                |                 |
 |**![](/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |        |
 |**SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
