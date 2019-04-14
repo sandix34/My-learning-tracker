@@ -10,8 +10,8 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 
 |               Compétence              | 1<br>Introduction | 2<br>Bases   | 3<br>bien     | 4<br>très bien | 5<br>confiante | 6<br>génial    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**![](/logos/logo-html.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**![](logos/logo-css.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**![](logos/logo-html4.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**![](logos/logo-react1.png) React**                         | ![done][done]     |               |               |                  |                |                 |
@@ -20,8 +20,8 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |        |
 |**![](logos/logo-webpack3.png) Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**![](logos/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
-|**Travailler avec des API**             | ![done][done]     |               |               |                  |                |                 |
-|**![](logos/logo-jquery4.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |               |               |                  |                |                 |
+|**![](logos/logo-jquery5.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
@@ -37,6 +37,7 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 
 ----
 ## Apprentissage
