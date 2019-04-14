@@ -10,7 +10,7 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 
 |               Compétence              | 1<br>Introduction | 2<br>Bases   | 3<br>bien     | 4<br>très bien | 5<br>confiante | 6<br>génial    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**![](logos/logo-html4.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**![](logos/logo-html7.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
@@ -73,8 +73,8 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 
 Je suis actuellement intéressé par:
 
-+ React
-+ webmapping avec OpenLayers
++ ![](logos/logo-react1.png) React
++ :earth_africa: webmapping avec OpenLayers
 
 ----
 ### Liste de contrôle de développement Web
