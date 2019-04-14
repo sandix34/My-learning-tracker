@@ -18,10 +18,10 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](/logo-redux1.png) Redux**                         |                   |               |               |                  |                |                 |        |
 |**![](/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
 |**![](/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |        |
-|**![](/logo-webpack.png) Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](/logo-webpack3.png) Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**![](/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
 |**Travailler avec des API**             | ![done][done]     |               |               |                  |                |                 |
-|**![](/logo-jquery3.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](/logo-jquery4.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
