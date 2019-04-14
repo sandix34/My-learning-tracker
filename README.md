@@ -50,19 +50,19 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 | ![Soon][Soon] |  2019       | Formation en ligne NodeJs                               | [Dyma](https://dyma.fr/)              |
 | ![Soon][Soon] |  2019       | Formation en ligne Redux                                | [Dyma](https://dyma.fr/)              |
 | ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z                                | [GEOMATICK](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
-| ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers                 | [GEOMATICK](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
-| ![In Progress][In Progress] | Avril 2019       | Formation en ligne React                                | [Dyma](https://dyma.fr/)              |
-| ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [Opquast](https://www.opquast.com/formation/)
-| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7            | [Udemy](https://www.udemy.com/javascript-es6-es7/)|
-| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript                     | [Udemy](https://www.udemy.com/comprendre-javascript/) |
-| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress                               | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen                 | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Janvier 2019     | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                                          | [O 'Clock](https://oclock.io/)  |
-| ![Completed][Completed]     | Décembre 2018    | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile  | [O 'Clock](https://oclock.io/) |
-| ![Completed][Completed]     | Décembre 2018    | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                | [O 'Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | JavaScript ES5                                                     | [O 'Clock](https://oclock.io/)    |
-| ![Completed][Completed]     | Novembre 2018    | PHP, Templating                           | [O 'Clock](https://oclock.io/)     |
-| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design | [O 'Clock](https://oclock.io/)     |
+| ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers                 | [![Geomatick](/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/)              |
+| ![In Progress][In Progress] | Avril 2019       | Formation en ligne React                                | [![Dyma](/logo-dyma.png)](https://dyma.fr/)              |
+| ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](/logo-opquast.png)](https://www.opquast.com/formation/)
+| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7            | [![Udemy](/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
+| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript                     | [![Udemy](/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
+| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress                               | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen                 | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Janvier 2019     | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                                          | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Décembre 2018    | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile  | [![O 'Clock](/logo-oclock.png)](https://oclock.io/) |
+| ![Completed][Completed]     | Décembre 2018    | Gestion de projet, MySQL, SQL, phpMyAdmin, POO avec PHP, Bootstrap                                | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | JavaScript ES5                                                     | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)    |
+| ![Completed][Completed]     | Novembre 2018    | PHP, Templating                           | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)     |
+| ![Completed][Completed]     | Novembre 2018    | Intégration, HTML5, CSS3, Git, Github, Slack, Vscode, Chrome,Intégration, Flexbox, Css Grid, ResponsiveWeb Design | [![O 'Clock](/logo-oclock.png)](https://oclock.io/)     |
 
 ----
 
