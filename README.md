@@ -38,7 +38,7 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**![](logos/logoFormik.png) Formik & Yup**                    | ![done][done]     |  |  |                  |                |                |
+|**Formik & Yup**                    | ![done][done]     |  |  |                  |                |                |
 |**Axios**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
@@ -83,7 +83,7 @@ Je suis actuellement intéressé par:
 ## Ressources
 
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
-+ :us: [Manuel du developper front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
++ :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
 +  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
 
 ----
