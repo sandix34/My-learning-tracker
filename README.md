@@ -14,13 +14,13 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**![](logos/logo-react1.png) React**                         | ![done][done]     |               |               |                  |                |                 |
+|**![](logos/logo-react1.png) React**                         | ![done][done]     |  ![done][done]             |               |                  |                |                 |
 |**![](logos/logo-redux1.png) Redux**                         |                   |               |               |                  |                |                 |        |
 |**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
-|**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |        |
+|**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
 |**![](logos/logo-webpack3.png) Webpack**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**![](logos/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
-|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |               |               |                  |                |                 |
+|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |  ![done][done]             |               |                  |                |                 |
 |**![](logos/logo-jquery5.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
@@ -31,15 +31,15 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 |**![](logos/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-terminal3.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-node-js3.png) Node.js**                       |                   |               |               |                  |                |                 |
-|**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |        |
+|**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
 |**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
 |**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**Formik & Yup**                    | ![done][done]     |  |  |                  |                |                |
-|**Axios**                    | ![done][done]     |  |  |                  |                |                |
+|**Formik & Yup**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**Axios**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -56,7 +56,7 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 | ![Soon][Soon] |  2019       | Formation en ligne Redux      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z | [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![In Progress][In Progress] | Avril 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
-| ![In Progress][In Progress] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
 | ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
