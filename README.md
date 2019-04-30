@@ -56,7 +56,7 @@ Pour mon portfolio complet il faudra patienter :sweat_smile:
 | ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z | [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![In Progress][In Progress] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![In Progress][In Progress] |   Mai 2019      | Formation en ligne Redux      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
-| ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept.png)](https://codeconcept.teachable.com/) |
+| ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
