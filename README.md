@@ -2,7 +2,7 @@
 
 Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
-:smile: [Mon portfolio complet](https://github.com/sandix34/Mon-traqueur-d-apprentissage)
+:smile: [Mon portfolio complet](https://nifty-swirles-594fd2.netlify.com)
 
 ## Compétences
 
