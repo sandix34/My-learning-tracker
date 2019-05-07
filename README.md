@@ -2,7 +2,7 @@
 
 Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
- 😄 :smile: [Mon portfolio complet](https://github.com/sandix34/Mon-traqueur-d-apprentissage)
+:smile: [Mon portfolio complet](https://github.com/sandix34/Mon-traqueur-d-apprentissage)
 
 ## Compétences
 
@@ -13,8 +13,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-html7.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**![](logos/logo-react1.png) React**                         | ![done][done]     |  ![done][done]             |               |                  |                |                 |
+|**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
+|**![](logos/logo-react1.png) React**                         | ![done][done]     |  ![done][done]             |    ![done][done]           |                  |                |                 |
 |**![](logos/logo-redux1.png) Redux**                         | ![done][done]                  |               |               |                  |                |                 |        |
 |**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
 |**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
@@ -34,7 +34,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
 |**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
@@ -52,6 +52,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![Soon][Soon] |  2019       | Formation en ligne ExpressJS     |  |
+| ![Soon][Soon] |  2019       | Formation en ligne MongoDB     |  |
 | ![Soon][Soon] |  2019       | Formation en ligne NodeJs     | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z | [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![In Progress][In Progress] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
