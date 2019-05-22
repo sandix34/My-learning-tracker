@@ -34,8 +34,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
 |**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |    ![done][done]              |                |                |
+|**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |![done][done]  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**Formik & Yup**                    | ![done][done]     | ![done][done] |  |                  |                |                |
@@ -54,9 +54,10 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Soon][Soon] |  2019       | Formation en ligne ExpressJS     |  |
 | ![Soon][Soon] |  2019       | Formation en ligne MongoDB     |  |
-| ![Soon][Soon] |  2019       | Formation en ligne NodeJs     | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
-| ![Soon][Soon] |  2019       | Créez une Interface de WebMapping avancée de A à Z | [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
-| ![In Progress][In Progress] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
+| ![Soon][Soon] |  2019       | Formation en ligne NodeJs     |  |
+ |
+| ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
+| ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Redux les bases      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
@@ -107,13 +108,13 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 * [ ] Lire un livre sur le codage
 * [x] Ouvrir la console de votre navigateur
 * [x] Obtenir des données d'une API
-* [ ] Masquer les clés API du public
+* [x] Masquer les clés API du public
 * [ ] Posez une question sur Stack Overflow
 * [x] Code Push vers GitHub
 * [ ] Parlez de quelque chose lié au développement web lors d'un événement
 * [ ] Remplir un entretien technique
 * [ ] Participer à un hackathon
-* [ ] Déployer un projet
+* [x] Déployer un projet
 * [ ] Contribuer à l'open source
 * [ ] Soyez payé pour coder
 * [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous êtes développeur :)
