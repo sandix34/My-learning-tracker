@@ -55,7 +55,6 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 | ![Soon][Soon] |  2019       | Formation en ligne ExpressJS     |  |
 | ![Soon][Soon] |  2019       | Formation en ligne MongoDB     |  |
 | ![Soon][Soon] |  2019       | Formation en ligne NodeJs     |  |
- |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
