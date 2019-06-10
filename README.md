@@ -46,6 +46,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
 ## Apprentissage
