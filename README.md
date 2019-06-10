@@ -14,7 +14,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
-|**![](logos/logo-react1.png) React**                         | ![done][done]     |  ![done][done]             |    ![done][done]           |                  |                |                 |
+|**![](logos/logo-react1.png) Reactjs**                         | ![done][done]     |  ![done][done]             |    ![done][done]           |                  |                |                 |
 |**![](logos/logo-redux1.png) Redux**                         | ![done][done]                  |               |               |                  |                |                 |        |
 |**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
 |**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
@@ -27,10 +27,9 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
 |**![](logos/logo-markdown6.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Construction de site Web**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Déployer un site web**          | ![done][done]     |             |               |                  |                |                 |
+|**Déployer un site web**          | ![done][done]     |  ![done][done]           |               |                  |                |                 |
 |**![](logos/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-terminal3.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-node-js3.png) Node.js**                       |                   |               |               |                  |                |                 |
 |**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
 |**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
@@ -38,8 +37,14 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |![done][done]  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**Formik & Yup**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**Axios**                    | ![done][done]     |![done][done]  |  |                  |                |                |
+|**Formik & Yup**                    | ![done][done]     |  |  |                  |                |                |
+|**Axios**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/gatsby.jpg) Gatsby**                    | ![done][done]     |![done][done]  |  |                  |                |                |
+|**![](logos/netlify.jpg) Netlify**                    | ![done][done]     |![done][done]  |  |                  |                |                |
+|**![](logos/ant-design_01.jpg) Ant Design**                    | ![done][done]     |![done][done]  |  |                  |                |                |
+|**![](logos/graphql.jpg) GraphQL**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -52,14 +57,13 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Soon][Soon] |  2019       | Formation en ligne ExpressJS     |  |
-| ![Soon][Soon] |  2019       | Formation en ligne MongoDB     |  |
-| ![Soon][Soon] |  2019       | Formation en ligne NodeJs     |  |
+| ![Completed][Completed] |   Juin 2019      | Programme Hardcoders Complet - 1 projet concret/mois -| [![Hardcoders](logos/hardcoders.png)](https://le-programme.netlify.com/) |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Redux les bases      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Avril 2019       | Formation en ligne JavaScript (ES6+) | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
 | ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
