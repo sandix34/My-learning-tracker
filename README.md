@@ -59,7 +59,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed] |   Juin 2019      | Programme Hardcoders Complet - 1 projet concret / mois -| [![Hardcoders](logos/hardcoders.png)](https://le-programme.netlify.com/) |
+| ![Completed][Completed] |   Juin 2019      | Programme Hardcoders Complet - 1 projet concret / mois -| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
