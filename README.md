@@ -15,6 +15,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
 |**![](logos/logo-react1.png) Reactjs**                         | ![done][done]     |  ![done][done]             |    ![done][done]           |                  |                |                 |
+|**![](logos/logo-react1.png) React Native**                         | ![done][done]     |               |               |                  |                |                 |
 |**![](logos/logo-redux1.png) Redux**                         | ![done][done]                  |               |               |                  |                |                 |        |
 |**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
 |**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
@@ -47,6 +48,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -59,13 +61,14 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed] |   Juin 2019      | Programme Hardcoders Complet - 1 projet concret / mois -| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
+| ![Completed][Completed] |   Juin 2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
+| ![Completed][Completed] |   Juin 2019      | Programme Hardcoders Complet - 1 projet concret / mois - Découvir React Native et créer des apps mobiles| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeconcept_01.png)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Redux les bases      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
-| ![Completed][Completed] | Avril 2019       | Formation en ligne JavaScript (ES6+) | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)|
+| ![Completed][Completed] | Avril 2019       | Formation en ligne JavaScript (ES6+), Module débutant | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)
 | ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
 | ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
@@ -94,6 +97,7 @@ Je suis actuellement intéressé par:
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 + :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
 +  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
++  [Le meilleur de JavaScript, HTML et CSS](https://bestofjs.org/tags/learning) Une liste organisée des projets open source les plus populaires liés à la plateforme Web et à Node.js.
 
 ----
 
