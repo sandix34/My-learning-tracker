@@ -49,6 +49,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/logodocz.jpg) Docz**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -89,6 +90,7 @@ Je suis actuellement intéressé par:
 
 + ![](logos/logo-react1.png) React
 + :earth_africa: webmapping avec OpenLayers
++ ![](logos/gatsby.jpg) Gatsby
 
 ----
 
@@ -118,7 +120,7 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 * [x] Ouvrir la console de votre navigateur
 * [x] Obtenir des données d'une API
 * [x] Masquer les clés API du public
-* [ ] Posez une question sur Stack Overflow
+* [x] Posez une question sur Stack Overflow
 * [x] Code Push vers GitHub
 * [ ] Parlez de quelque chose lié au développement web lors d'un événement
 * [ ] Remplir un entretien technique
