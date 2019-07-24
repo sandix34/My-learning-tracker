@@ -63,10 +63,10 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] |    2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
-| ![In Progress][In Progress] |    2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
+| ![In Progress][In Progress] |    2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   juillet 2019      | Les React Hooks par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
-| ![Completed][Completed] |   Juin 2019      | Créer un blog avec Gatsby (+ Ant design et Netlify CMS)| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
-| ![Completed][Completed] |   Juin 2019      | Découvir React Native et créer des apps mobiles| [![Hardcoders](logos/hardcoder.jpg)](https://le-programme.netlify.com/) |
+| ![Completed][Completed] |   Juin 2019      | Créer un blog avec Gatsby (+ Ant design et Netlify CMS)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
+| ![Completed][Completed] |   Juin 2019      | Découvir React Native et créer des apps mobiles| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
