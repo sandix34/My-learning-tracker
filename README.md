@@ -98,6 +98,8 @@ Je suis actuellement intéressé par:
 
 ## Ressources
 
++ :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/)
+
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 + :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
 +  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
