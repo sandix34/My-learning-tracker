@@ -61,8 +61,9 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |    2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
-| ![In Progress][In Progress] |    2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
+| ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
+| ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
+| ![completed][completed] |   Juillet 2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   juillet 2019      | Les React Hooks par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Juin 2019      | Créer un blog avec Gatsby (+ Ant design et Netlify CMS)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   Juin 2019      | Découvir React Native et créer des apps mobiles| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
@@ -90,9 +91,11 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 Je suis actuellement intéressé par:
 
-+ ![](logos/logo-react1.png) React
++ Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
 + :earth_africa: webmapping avec OpenLayers
++ ![](logos/logo-react1.png) React
 + ![](logos/gatsby.jpg) Gatsby
++ ![](logos/svelte.jpg) Svelte JS
 
 ----
 
