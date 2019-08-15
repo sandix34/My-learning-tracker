@@ -47,7 +47,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logodocz.jpg) Docz**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 
 ----
@@ -61,6 +61,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] | Août / Septembre 2019       | Formation en ligne NodeJs | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![completed][completed] |   Juillet 2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
