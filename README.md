@@ -49,6 +49,10 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logodocz.jpg) Docz**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](logos/logoNodeJs.jpg) NodeJs**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/logoExpress.jpg) Express**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/logoMongoDB.jpg) MongoDB**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/logoMongoose.jpg) Mongoose**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -102,14 +106,21 @@ Je suis actuellement intéressé par:
 
 ## Ressources
 
-+ :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/)
-
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 + :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
 +  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
 +  [Le meilleur de JavaScript, HTML et CSS](https://bestofjs.org/tags/learning) Une liste organisée des projets open source les plus populaires liés à la plateforme Web et à Node.js.
++  [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
++  :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/) Des bases aux sujets avancés avec des explications simples mais détaillées.
 
 ----
+## Suivre le monde Frontend
++  [Focus Frontend](https://frontendfoc.us/) Un récapitulatif hebdomadaire des meilleures nouvelles, articles et tutoriels du front-end. HTML, CSS, WebGL, Canvas, technologie de navigateur, etc.
++  [JavaScript Weekly](https://javascriptweekly.com/) Un récapitulatif gratuit, une fois par semaine, des nouvelles et des articles JavaScript.
++  [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
++  [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.  
+  ---
+
 
 ### Liste de contrôle de développement Web
 
@@ -121,7 +132,7 @@ Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/gi
 * [x] Utilisez un éditeur de texte (Vscode)
 * [x] Utilisez des raccourcis clavier
 * [ ] Écrire des tests pour votre code
-* [ ] Aidez un autre développeur Web à résoudre un problème
+* [x] Aidez un autre développeur Web à résoudre un problème
 * [ ] Assistez à un événement sur le développement Web
 * [x] Suivre les développeurs que l'on admire sur les médias sociaux
 * [ ] Lire un livre sur le codage
