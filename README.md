@@ -53,6 +53,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logoExpress.jpg) Express**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/logoMongoDB.jpg) MongoDB**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/logoMongoose.jpg) Mongoose**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/tailwindCSS.jpg) Tailwind CSS**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
 ## Apprentissage
@@ -65,7 +67,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Août / Septembre 2019       | Formation en ligne NodeJs | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![In Progress][In Progress] | Septembre 2019       | Concevoir avec Tailwind CSS est une série de vidéos gratuites qui vous apprend à créer des interfaces utilisateur entièrement réactives et conçues de manière professionnelle à l'aide de Tailwind CSS. | [![Tailwindcss](logos/tailwindcss100.jpg)](https://tailwindcss.com/screencasts/)|
+| ![In Progress][In Progress] | Septembre 2019       | Formation en ligne Vue.js | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![completed][completed] |   Juillet 2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
@@ -118,7 +121,8 @@ Je suis actuellement intéressé par:
 +  [Focus Frontend](https://frontendfoc.us/) Un récapitulatif hebdomadaire des meilleures nouvelles, articles et tutoriels du front-end. HTML, CSS, WebGL, Canvas, technologie de navigateur, etc.
 +  [JavaScript Weekly](https://javascriptweekly.com/) Un récapitulatif gratuit, une fois par semaine, des nouvelles et des articles JavaScript.
 +  [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
-+  [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.  
++  [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.
++  [Vue Community](https://vue-community.org/) le guide du débutant de la communauté et de l'écosystème de Vue.js, rédigé et mis à jour par la communauté elle-même.   
   ---
 
 
