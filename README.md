@@ -101,8 +101,8 @@ Je suis actuellement intéressé par:
 
 + Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
 + :earth_africa: webmapping avec OpenLayers
-+ ![](logos/logo-react1.png) React
-+ ![](logos/gatsby.jpg) Gatsby
++ ![](logos/vuejs.jpg) Vue.js
++ ![](logos/tailwindCSS.jpg) Tailwind CSS
 + ![](logos/svelte.jpg) Svelte JS
 
 ----
