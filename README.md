@@ -43,7 +43,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/netlify.jpg) Netlify**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/ant-design_01.jpg) Ant Design**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/graphql.jpg) GraphQL**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
@@ -53,7 +53,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logoExpress.jpg) Express**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/logoMongoDB.jpg) MongoDB**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/logoMongoose.jpg) Mongoose**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     |  |  |                  |                |                |
+|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/tailwindCSS.jpg) Tailwind CSS**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
@@ -67,8 +67,9 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] | Octobre 2019       | Formation en ligne Vuex | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Septembre 2019       | Concevoir avec Tailwind CSS est une série de vidéos gratuites qui vous apprend à créer des interfaces utilisateur entièrement réactives et conçues de manière professionnelle à l'aide de Tailwind CSS. | [![Tailwindcss](logos/tailwindcss100.jpg)](https://tailwindcss.com/screencasts/)|
-| ![In Progress][In Progress] | Septembre 2019       | Formation en ligne Vue.js | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Septembre 2019       | Formation en ligne Vue.js | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![completed][completed] |   Juillet 2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
