@@ -67,7 +67,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] |  Octobre  2019      | Devenir opérationnel rapidement en Vue et Vuex      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
+| ![Completed][Completed] |  Octobre  2019      | Devenir opérationnel rapidement en Vue et Vuex      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Octobre 2019       | Formation en ligne Vuex | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Septembre 2019       | Concevoir avec Tailwind CSS est une série de vidéos gratuites qui vous apprend à créer des interfaces utilisateur entièrement réactives et conçues de manière professionnelle à l'aide de Tailwind CSS. | [![Tailwindcss](logos/tailwindcss100.jpg)](https://tailwindcss.com/screencasts/)|
 | ![Completed][Completed] | Septembre 2019       | Formation en ligne Vue.js | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
