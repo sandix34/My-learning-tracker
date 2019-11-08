@@ -13,7 +13,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
-|**![](logos/logo-react1.png) Reactjs**                         | ![done][done]     |  ![done][done]             |    ![done][done]           |                  |                |                 |
+|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
+|**![](logos/logo-react1.png) Reactjs**                         | ![done][done]     |  ![done][done]             |               |                  |                |                 |
 |**![](logos/logo-react1.png) React Native**                         | ![done][done]     |               |               |                  |                |                 |
 |**![](logos/logo-redux1.png) Redux**                         | ![done][done]                  |               |               |                  |                |                 |        |
 |**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
@@ -45,15 +46,9 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/graphql.jpg) GraphQL**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/styleguidist.jpg) React Styleguidist**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**![](logos/logodocz.jpg) Docz**                    | ![done][done]     | ![done][done] |  |                  |                |                |
+|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |                  |                |                |
 |**![](logos/logoNodeJs.jpg) NodeJs**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/logoExpress.jpg) Express**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/logoMongoDB.jpg) MongoDB**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/logoMongoose.jpg) Mongoose**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/tailwindCSS.jpg) Tailwind CSS**                    | ![done][done]     |  |  |                  |                |                |
 
 ----
