@@ -21,20 +21,20 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
 |**![](logos/logo-webpack3.png) Webpack 4**                       | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
 |**![](logos/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
-|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |  ![done][done]             |               |                  |                |                 |
+|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |  ![done][done]             |      ![done][done]         |         ![done][done]         |                |                 |
 |**![](logos/logo-jquery5.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
-|**![](logos/logo-markdown6.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Construction de site Web**      | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**![](logos/logo-markdown6.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |    ![done][done]            |                 |
+|**Construction de site Web**      | ![done][done]     | ![done][done] |           ![done][done]    |                  |                |                 |
 |**Déployer un site web**          | ![done][done]     |  ![done][done]           |               |                  |                |                 |
 |**![](logos/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-terminal3.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
 |**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |    ![done][done]              |                |                |
+|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |    ![done][done]              |  ![done][done]              |                |
 |**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |![done][done]  |                  |                |                |
 |**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
 |**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
@@ -44,7 +44,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/netlify.jpg) Netlify**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/ant-design_01.jpg) Ant Design**                    | ![done][done]     |![done][done]  |  |                  |                |                |
 |**![](logos/graphql.jpg) GraphQL**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |![done][done]  |  |                  |                |                |
+|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |![done][done]  | ![done][done] |                  |                |                |
 |**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
 |**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |                  |                |                |
@@ -62,7 +62,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Novembre 2019 | Fondamentaux Nuxt.js | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)|
+| ![Completed][Completed] | Novembre 2019 |  apprendre Vue.js en créant une application réelle d'un forum complet à partir de zéro | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)|
 | ![Completed][Completed] |  Octobre  2019      | Devenir opérationnel rapidement en Vue et Vuex      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Octobre 2019       | Formation en ligne Vuex | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Septembre 2019       | Concevoir avec Tailwind CSS est une série de vidéos gratuites qui vous apprend à créer des interfaces utilisateur entièrement réactives et conçues de manière professionnelle à l'aide de Tailwind CSS. | [![Tailwindcss](logos/tailwindcss100.jpg)](https://tailwindcss.com/screencasts/)|
@@ -102,6 +102,13 @@ Je suis actuellement intéressé par:
 + ![](logos/vuejs.jpg) Vue.js
 + ![](logos/tailwindCSS.jpg) Tailwind CSS
 + ![](logos/svelte.jpg) Svelte JS
+
+----
+
+## Réalisations
+
++ [Vue.js-OpenLayers](https://zealous-swanson-ae67ed.netlify.com/#/) Une collection d'exemples de code OpenLayers basés sur Vue.js.
++ [React-OpenLayers](https://github.com/sandix34/React-OpenLayers) Une collection de composants React avec OpenLayers presentés dans Styleguidist
 
 ----
 
