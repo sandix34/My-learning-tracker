@@ -7,50 +7,46 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Compétence              | 1<br>Introduction | 2<br>Bases   | 3<br>bien     | 4<br>très bien | 5<br>confiante | 6<br>génial    |
-|:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**![](logos/logo-html7.png) HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**![](logos/logo-css3.png) CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**![](logos/logo-javascript1.png) JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-es6.png) ES6**                           | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
-|**![](logos/vuejs.jpg) Vue.js**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-react1.png) Reactjs**                         | ![done][done]     |  ![done][done]             |               |                  |                |                 |
-|**![](logos/logo-react1.png) React Native**                         | ![done][done]     |               |               |                  |                |                 |
-|**![](logos/logo-redux1.png) Redux**                         | ![done][done]                  |               |               |                  |                |                 |        |
-|**![](logos/logo-git.png) Git**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |        |
-|**![](logos/logo-github.png) GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]               |                 |        |
-|**![](logos/logo-webpack3.png) Webpack 4**                       | ![done][done]     | ![done][done] |    ![done][done]           |                  |                |                 |
-|**![](logos/logo-agile.png) Agile**                         | ![done][done]     |               |               |                  |                |                 |        |
-|**![](logos/logo-api.png) Travailler avec des API**             | ![done][done]     |  ![done][done]             |      ![done][done]         |         ![done][done]         |                |                 |
-|**![](logos/logo-jquery5.png) jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] |               |                  |                |                 |        |
-|**![](logos/logo-markdown6.png) Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |    ![done][done]            |                 |
-|**Construction de site Web**      | ![done][done]     | ![done][done] |           ![done][done]    |                  |                |                 |
-|**Déployer un site web**          | ![done][done]     |  ![done][done]           |               |                  |                |                 |
-|**![](logos/logo-bootstrap.png) Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-terminal3.png) Ligne de commande**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-npm.png) NPM**                           | ![done][done]     | ![done][done] |   ![done][done]            |               ![done][done]   |                |                 |        |
-|**![](logos/logo-sql4.png) SQL**                           | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**![](logos/logo-mysql4.png) MySQL**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                |
-|**![](logos/logo-openlayers4.png) OpenLayers**                    | ![done][done]     | ![done][done] | ![done][done] |    ![done][done]              |  ![done][done]              |                |
-|**![](logos/logo-sass.png) Sass**                    | ![done][done]     | ![done][done] |![done][done]  |                  |                |                |
-|**![](logos/logo-php.png) PHP**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**![](logos/logo-ajax.png) AJAX**                    | ![done][done]     | ![done][done] |  |                  |                |                |
-|**Formik & Yup**                    | ![done][done]     |  |  |                  |                |                |
-|**Axios**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/gatsby.jpg) Gatsby**                    | ![done][done]     |![done][done]  |  |                  |                |                |
-|**![](logos/netlify.jpg) Netlify**                    | ![done][done]     |![done][done]  |  |                  |                |                |
-|**![](logos/ant-design_01.jpg) Ant Design**                    | ![done][done]     |![done][done]  |  |                  |                |                |
-|**![](logos/graphql.jpg) GraphQL**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/firebase.jpg) Firebase**                    | ![done][done]     |![done][done]  | ![done][done] |                  |                |                |
-|**![](logos/stripe.jpg) Stripe**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/parcel.jpg) Parcel**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/svelte.jpg) Svelte.js 3**                    | ![done][done]     | ![done][done] |  |                  |                |                |                  |                |                |
-|**![](logos/logoNodeJs.jpg) NodeJs**                    | ![done][done]     |  |  |                  |                |                |
-|**![](logos/tailwindCSS.jpg) Tailwind CSS**                    | ![done][done]     |  |  |                  |                |                |
-
+| Compétence | 1<br>Introduction | 2<br>Utilisation occasionnelle | 3<br>Utilisation régulière |
+|:-------------------------------- |:-----------------:|:-------------:|:-------------:|
+|**![](logos/logo-html7.png) HTML5** | ![done][done]| ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-css3.png) CSS3** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-javascript1.png) JavaScript** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-es6.png) ES6** | ![done][done] | ![done][done] | ![done][done] |                |
+|**![](logos/vuejs.jpg) Vue.js** | ![done][done] | ![done][done] | ![done][done] |                |
+|**![](logos/logo-git.png) Git** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-github.png) GitHub**  | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-npm.png) NPM** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-api.png) Travailler avec des API** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-markdown6.png) Markdown** | ![done][done] | ![done][done] | ![done][done] |
+|**CSS Grid & Flex-box** | ![done][done] | ![done][done] | ![done][done] |
+|**Responsive design** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/logo-webpack3.png) Webpack 4** | ![done][done]  | ![done][done] | |
+|**Mobile first** | ![done][done] | ![done][done] | |
+|**Construction de site Web** | ![done][done] | ![done][done] | |
+|**Déployer un site web** | ![done][done] |  ![done][done] | |
+|**![](logos/logo-bootstrap.png) Bootstrap** | ![done][done] | ![done][done] | |
+|**![](logos/logo-terminal3.png) Ligne de commande** | ![done][done] | ![done][done] ||                |
+|**![](logos/logo-openlayers4.png) OpenLayers** | ![done][done] | ![done][done] | |
+|**![](logos/netlify.jpg) Netlify** | ![done][done] |![done][done]  | |
+|**![](logos/firebase.jpg) Firebase** | ![done][done] |![done][done] | |
+|**![](logos/logo-react1.png) Reactjs** | ![done][done] | |  |
+|**![](logos/logo-redux1.png) Redux** | ![done][done] | | |
+|**![](logos/logo-react1.png) React Native** | ![done][done] | | |
+|**![](logos/logo-agile.png) Agile** | ![done][done] | | |
+|**![](logos/logo-jquery5.png) jQuery** | ![done][done] | | |
+|**![](logos/logo-sql4.png) SQL** | ![done][done] | | |
+|**![](logos/logo-mysql4.png) MySQL** | ![done][done] | | |
+|**![](logos/logo-sass.png) Sass** | ![done][done] | | |
+|**![](logos/logo-php.png) PHP** | ![done][done] | | |
+|**Axios** | ![done][done] |  |  |
+|**![](logos/gatsby.jpg) Gatsby** | ![done][done] | | |
+|**![](logos/parcel.jpg) Parcel** | ![done][done] |  |  |
+|**![](logos/svelte.jpg) Svelte.js 3** | ![done][done] |  | |
+|**![](logos/nodejs_01.jpg) NodeJs** | ![done][done] |  |  |
+|**![](logos/tailwindCSS.jpg) Tailwind CSS** | ![done][done] |  |  |
+|**![](logos/graphql.jpg) GraphQL** |  |  |  |
+|**![](logos/d3js.jpg) D3js** |  |  |  |
 ----
 ## Apprentissage
 
