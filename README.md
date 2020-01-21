@@ -30,6 +30,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-openlayers4.png) OpenLayers** | ![done][done] | ![done][done] | |
 |**![](logos/netlify.jpg) Netlify** | ![done][done] |![done][done]  | |
 |**![](logos/firebase.jpg) Firebase** | ![done][done] |![done][done] | |
+|**![](logos/nodejs_01.jpg) NodeJs** | ![done][done] |  |  |
 |**![](logos/logo-react1.png) Reactjs** | ![done][done] | |  |
 |**![](logos/logo-redux1.png) Redux** | ![done][done] | | |
 |**![](logos/logo-react1.png) React Native** | ![done][done] | | |
@@ -43,7 +44,6 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/gatsby.jpg) Gatsby** | ![done][done] | | |
 |**![](logos/parcel.jpg) Parcel** | ![done][done] |  |  |
 |**![](logos/svelte.jpg) Svelte.js 3** | ![done][done] |  | |
-|**![](logos/nodejs_01.jpg) NodeJs** | ![done][done] |  |  |
 |**![](logos/tailwindCSS.jpg) Tailwind CSS** | ![done][done] |  |  |
 |**![](logos/graphql.jpg) GraphQL** |  |  |  |
 |**![](logos/d3js.jpg) D3js** |  |  |  |
@@ -94,12 +94,9 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 Je suis actuellement intéressé par:
 
-+ Tout ce qui concerne la [JAMstack](https://jamstatic.fr/2019/02/07/c-est-quoi-la-jamstack/)
-+ :earth_africa: webmapping
 + ![](logos/vuejs.jpg) Vue.js
-+ ![](logos/tailwindCSS.jpg) Tailwind CSS
-+ ![](logos/svelte.jpg) Svelte JS
-
++ ![](logos/logo-openlayers4.png) webmapping avec OpenLayers
++ ![](logos/d3js.jpg) data visualization avec D3js
 ----
 
 ## Réalisations
