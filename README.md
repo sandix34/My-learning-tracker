@@ -114,14 +114,16 @@ Je suis actuellement intéressé par:
 +  [Le meilleur de JavaScript, HTML et CSS](https://bestofjs.org/tags/learning) Une liste organisée des projets open source les plus populaires liés à la plateforme Web et à Node.js.
 +  [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
 +  :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/) Des bases aux sujets avancés avec des explications simples mais détaillées.
++  [Best of Javascript](https://bestofjs.org/) Découvrez les projets open source les plus populaires et les dernières tendances concernant la plate-forme Web et Node.js.
+---
+## Newsletters 
 
-----
-## Suivre le monde Frontend
 +  [Focus Frontend](https://frontendfoc.us/) Un récapitulatif hebdomadaire des meilleures nouvelles, articles et tutoriels du front-end. HTML, CSS, WebGL, Canvas, technologie de navigateur, etc.
 +  [JavaScript Weekly](https://javascriptweekly.com/) Un récapitulatif gratuit, une fois par semaine, des nouvelles et des articles JavaScript.
 +  [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
 +  [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.
-+  [Vue Community](https://vue-community.org/) le guide du débutant de la communauté et de l'écosystème de Vue.js, rédigé et mis à jour par la communauté elle-même.   
++  [Vue Community](https://vue-community.org/) le guide du débutant de la communauté et de l'écosystème de Vue.js, rédigé et mis à jour par la communauté elle-même. 
++  [Node Weekly](https://nodeweekly.com/) Un tour d'horizon gratuit, une fois par semaine, des nouvelles et des articles de Node.js.   
   ---
 
 
@@ -131,25 +133,25 @@ Voici une liste d'objectifs de base à atteindre sur le chemin de la maîtrise d
 
 Cette liste est une copie presque exacte de [ Ginny Fahs](https://twitter.com/ginnyfahs) [ "Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
-* [x] Ouvrrir le terminal de l'ordinateur
-* [x] Utilisez un éditeur de texte (Vscode)
-* [x] Utilisez des raccourcis clavier
-* [ ] Écrire des tests pour votre code
-* [x] Aidez un autre développeur Web à résoudre un problème
-* [ ] Assistez à un événement sur le développement Web
-* [x] Suivre les développeurs que l'on admire sur les médias sociaux
-* [ ] Lire un livre sur le codage
-* [x] Ouvrir la console de votre navigateur
-* [x] Obtenir des données d'une API
-* [x] Masquer les clés API du public
-* [x] Posez une question sur Stack Overflow
-* [x] Code Push vers GitHub
-* [ ] Parlez de quelque chose lié au développement web lors d'un événement
-* [ ] Remplir un entretien technique
-* [ ] Participer à un hackathon
-* [x] Déployer un projet
-* [ ] Contribuer à l'open source
-* [ ] Soyez payé pour coder
-* [x] Lorsque les gens vous demandent ce que vous faites, répondez en disant que vous êtes développeur :)
-* [x] Travailler en Pair Programming
+* ✔️ Ouvrrir le terminal de l'ordinateur
+* ✔️ Utilisez un éditeur de texte (Vscode)
+* ✔️ Utilisez des raccourcis clavier
+* ✖️ Écrire des tests pour votre code
+* ✔️ Aidez un autre développeur Web à résoudre un problème
+* ✖️ Assistez à un événement sur le développement Web
+* ✔️ Suivre les développeurs que l'on admire sur les médias sociaux
+* ✔️ Lire un livre sur le codage
+* ✔️ Ouvrir la console de votre navigateur
+* ✔️ Obtenir des données d'une API
+* ✔️ Masquer les clés API du public
+* ✔️ Posez une question sur Stack Overflow
+* ✔️ Code Push vers GitHub
+* ✖️ Parlez de quelque chose lié au développement web lors d'un événement
+* ✖️ Remplir un entretien technique
+* ✖️ Participer à un hackathon
+* ✔️ Déployer un projet
+* ✖️ Contribuer à l'open source
+* ✖️ Soyez payé pour coder
+* ✔️ Lorsque les gens vous demandent ce que vous faites, répondez en disant que        vous êtes développeur :)
+* ✔️ Travailler en Pair Programming
 
