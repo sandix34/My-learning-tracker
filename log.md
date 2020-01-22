@@ -13,7 +13,7 @@
 - **ES6** : signifie ECMAScript 2015, la sixième version de JavaScript
 - **Node.js** : un environnement pour exécuter JavaScript en dehors du navigateur.
 - **NMP**: outil pour gérer le flux de travail des projets JavaScript
-- **Requête HTTP : il s'agit de "parler" à un serveur Web distant
+- **Requête HTTP** : il s'agit de "parler" à un serveur Web distant
 - **JSON** : JavaScript Object Notation, un format pour l'échange de données entre le service Web et les applications Web
 - **API REST** : est un service Web (local ou distant) qui peut exposer des données. 
 - **Transpiler** : outil qui prend la syntaxe JavaScript moderne et crache une version plus compatible (ECMAScript 2009)
@@ -22,25 +22,30 @@
 - **Fetch API** : une API native pour faire des requêtes HTTP, un peu comme XMLHttpRequest, mais basée sur ECMAScript 2015 Promises
 - **CORS** : acronyme de Cross-Origin Resource Sharing est un moyen pour les navigateurs de donner accès à un domaine donné
 - **WebSocket** : un protocole de communication Internet qui permet de communiquer dans les deux sens sur une seule connexion TCP
+- **CRUD** : create, read, update, delete, quatre opérations de base pour la persistance des données
 
- Sortie de ma formation initiale de 4 mois chez O'clock j'ai dû me rendre à l'évidence que que je n'avais eu qu'une introduction au métier de développeur web et que beaucoup de choses m'échappaient. Je me suis investie dans un parcours d'apprentissage en autonomie pour acquérir de réelles compétences.
+ > Sortie de ma formation initiale de 4 mois chez O'clock j'ai dû me rendre à l'évidence que que je n'avais eu qu'une introduction au métier de développeur web et que beaucoup de choses m'échappaient. Ala suite de ce constat Je me suis investie dans un parcours d'apprentissage en autonomie pour acquérir de réelles compétences.
 
-### Voici une liste non exhaustive de ce que j'ai appris, essayée, testée.
+### Voici une liste non exhaustive de ce que j'ai appris, essayée, testée....
 
 ##  **2020**
 
 En cours 
 
-- un blog en vanilla javascript / Objectif maîtriser javascript
-- Une application Twitter avec nodejs - Express - MongoDB / Objectif avoir une vision fullstack javascript
-- Apprentissage de D3js / Objectif un amusement en plus de OpenLayers, attendez-vous à une collection d'exemples Vuejs-D3js 
+- ![](https://img.shields.io/badge/JavaScript-f0db4e) un blog en vanilla javascript / Objectif maîtriser javascript
+- ![](https://img.shields.io/badge/Node.js-88c601) Une application Twitter avec nodejs - Express - MongoDB / Objectif avoir une vision fullstack javascript
+- ![](https://img.shields.io/badge/D3.js-f38748) Apprentissage de D3js / Objectif un amusement en plus de OpenLayers, attendez-vous à une collection d'exemples Vuejs-D3js
+- et .....  ????
+
+
+![buzz](https://user-images.githubusercontent.com/44428775/72896443-1348b000-3d20-11ea-8001-6a542f62555e.jpg)
 
 
 ---
 
 ## **Décembre 2019**
 
-### Une collection d'exemples de code OpenLayers basés sur Vue.js
+### ![](https://img.shields.io/badge/Vue.js-41b882) ![](https://img.shields.io/badge/OpenLayers-33bbce) Une collection d'exemples de code OpenLayers basés sur Vue.js
 
 Et oui ça devait arriver il fallait que je m'amuse avec OpenLayers dans Vuejs.
 
@@ -50,9 +55,9 @@ See the project online 👉 [here](https://zealous-swanson-ae67ed.netlify.com/#/
 
 ---
 
-### Un forum complet en VueJS en partant de zéro 
+### ![](https://img.shields.io/badge/Vue.js-41b882) [![star this repo](https://githubbadges.com/star.svg?user=sandix34&repo=Vue-Forum&style=default)](https://github.com/sandix34/Vue-Forum) Un forum complet en VueJS en partant de zéro 
 
-LE projet qui m'a donné le plus mal à la tête 😱. Un super cours très complet en Vuejs.
+C'est LE projet qui m'a donné le plus mal à la tête 🤯. Un super cours très complet en Vuejs.
 
 Sujets abordés :
 
@@ -62,16 +67,16 @@ Sujets abordés :
 -  Authentification tierce
 -  Fonctions de base de données en temps réel et cloud de Firebase
 -  Architecture d'application et meilleures pratiques 
-- ] Division de code
+-  Division de code
 -  Configuration Webpack
 -  SEO et pré-rendu
 
 ![forum](https://user-images.githubusercontent.com/44428775/72885282-e6889e80-3d07-11ea-9475-8b0f982ac2be.gif)
 ---
 
-### Site de e-commerce et son interface d'administration Vuejs
+### ![](https://img.shields.io/badge/Vue.js-41b882) Site de e-commerce et son interface d'administration Vuejs
 
-Un cours de plus !! J'opte définitivement pour Vuejs
+Un cours de plus !! J'opte définitivement pour Vuejs.
 
 ![vuexCommerce](https://user-images.githubusercontent.com/44428775/67873070-30ac1a80-fb33-11e9-9dbc-b55609b8c3bf.gif)
 
@@ -79,9 +84,9 @@ Un cours de plus !! J'opte définitivement pour Vuejs
 
 ## **Novembre 2019**
 
-### Application pour afficher ses référentiels avec l' API Github
+### ![](https://img.shields.io/badge/Vue.js-41b882) Application pour afficher ses référentiels avec l' API Github
 
-Petit projet personnel en Vuejs bien entendu.
+Petit projet personnel en Vuejs bien entendu. C'était dans une idée de faire un portfolio mais au final je penses ne jamais en faire.
 
 ![référentiels](https://user-images.githubusercontent.com/44428775/68085262-69a00400-fe3f-11e9-8922-a3c51f11ffa6.png)
 
@@ -89,9 +94,9 @@ Petit projet personnel en Vuejs bien entendu.
 
 ## **Octobre 2019**
 
-### Application de brainstorming avec drag & drop Vuejs
+### ![](https://img.shields.io/badge/Vue.js-41b882) Application de brainstorming avec drag & drop
 
-Un cours en ligne et j'y tailwindcss pour le tester.
+Un cours en ligne et j'en ai profité pour tester tailwindcss.
 
 ![ideas](https://user-images.githubusercontent.com/44428775/66702989-dd9e2f00-ed0d-11e9-8316-313da6114dfd.gif)
 
@@ -99,28 +104,40 @@ Un cours en ligne et j'y tailwindcss pour le tester.
 
 ## **Septembre 2019**
 
-### Une boutique en ligne simplifiée en Vuejs
+### ![](https://img.shields.io/badge/Vue.js-41b882) Une boutique en ligne simplifiée en Vuejs
 
 Un de mes premiers cours Vuejs qui va me faire laisser tomber React.
 
 ![vue-shop](https://user-images.githubusercontent.com/44428775/66325890-507f6280-e928-11e9-87d4-cce2ce62c76d.gif)
 
+---
+
+## **Aout 2019**
+
+### ![](https://img.shields.io/badge/React.js-60dafb) ![](https://img.shields.io/badge/OpenLayers-33bbce) [![star this repo](https://githubbadges.com/star.svg?user=sandix34&repo=OpenLayers-React-Collection&style=default)](https://github.com/sandix34/OpenLayers-React-Collection) Une collection d'exemples de code OpenLayers basés sur React présentée dans Gatsby-Docz
+
+Je découvre la Jamstack et Gatsby et j'insite avec mon projet OpenLayers pour le mettre en ligne mais c'est un échec au moment du build... et je n'y suis pas revenu.
+
+![openreactgatsby](https://user-images.githubusercontent.com/44428775/60974218-ff140700-a329-11e9-9452-70a0182a94fe.gif)
 
 ---
 
 ## **Juillet 2019**
 
-### Exemples d'utilisation React hooks
+### ![](https://img.shields.io/badge/React.js-60dafb) Exemples d'utilisation React hooks
 
-Un petit projet personnel pour essayer antdesign et prismjs
+Un petit projet personnel pour tester antdesign et prismjs.
 
 ![hooks](https://user-images.githubusercontent.com/44428775/62221406-e3909f00-b3b1-11e9-91f0-0859cbe35a50.gif)
 
 ---
 
+
 ## **Juin 2019**
 
-### Une application Svelte.js pour la planification de l'entraînement
+### ![](https://img.shields.io/badge/Svelte.js-fe3e00) Une application Svelte.js pour la planification de l'entraînement
+
+Un petit cours pour satisfaire ma curiosité au sujet de svelte.
 
 Gestion de formulaire avec le framework [Svelte](https://svelte.dev/)
 
@@ -136,7 +153,7 @@ Gestion de formulaire avec le framework [Svelte](https://svelte.dev/)
 
 ---
 
-### Exemple d'application basique permettant de voir les bases Svelte.js
+### ![](https://img.shields.io/badge/Svelte.js-fe3e00) Exemple d'application basique permettant de voir les bases Svelte.js
 
 Découverte des fondamentaux essentiels du framework [Svelte](https://svelte.dev/)
 
@@ -151,15 +168,17 @@ Découverte des fondamentaux essentiels du framework [Svelte](https://svelte.dev
 
 ---
 
-### Une application Pokedex pour découvrir React Native
+### ![](https://img.shields.io/badge/React.Native-60dafb) Une application Pokedex pour découvrir React Native
+
+Un cours en ligne histoire de voir le développement mobile.
 
 ![pokédex](https://user-images.githubusercontent.com/44428775/59363447-79566900-8d35-11e9-962a-fe4c816931ca.png)
 
 ---
 
-### Une application de commerce électronique basée sur Reactjs et Stripe
+### ![](https://img.shields.io/badge/React.js-60dafb) Une application de commerce électronique basée sur Reactjs et Stripe
 
-Suivi d'un cours en ligne.
+Suivi d'un cours en ligne toujours dans la continuité d'apprendre React.
 
 ![e-commerce](https://user-images.githubusercontent.com/44428775/59182076-157f4500-8b69-11e9-8f8b-b5128a4c8356.gif)
 
@@ -169,7 +188,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## **Mai 2019**
 
-### Un portfolio
+### ![](https://img.shields.io/badge/React.js-60dafb) Un portfolio
 
 je m'essaye à créer un portfolio en React.
 
@@ -182,7 +201,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-### Une application de recettes
+### ![](https://img.shields.io/badge/React.js-60dafb) Une application de recettes
 
 Je suis un autre cours react et je découvre Firebase.
 
@@ -200,7 +219,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ---
 
-### Un éditeur de markdown
+### ![](https://img.shields.io/badge/React.js-60dafb) Un éditeur de markdown
 
 Suivi d'une formation e-learning.
 
@@ -216,9 +235,9 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 ---
 
-### Un générateur de devis
+### ![](https://img.shields.io/badge/React.js-60dafb) Un générateur de devis
 
-Suivi d'une formation avec un projet qui se rapproche du monde réel.
+Suivi d'une formation avec un projet qui se rapproche enfin du monde réel.
 
 Fonctionnalités du projet
 
@@ -234,7 +253,7 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 ## **Avril 2019**
 
-### Une collection de composants React Avec OpenLayers 
+### ![](https://img.shields.io/badge/React.js-60dafb) ![](https://img.shields.io/badge/OpenLayers-33bbce) [![star this repo](https://githubbadges.com/star.svg?user=sandix34&repo=React-OpenLayers&style=default)](https://github.com/sandix34/React-OpenLayers) Une collection de composants React Avec OpenLayers 
 
 Je démarre un projet qui me tiens à coeur car j'ai un vif intérêt pour le webmapping
 
@@ -242,9 +261,11 @@ Je démarre un projet qui me tiens à coeur car j'ai un vif intérêt pour le we
 
 ---
 
-### Un projet guidé dans le cadre de ma formation React
+### ![](https://img.shields.io/badge/React.js-60dafb) Un projet guidé dans le cadre de ma formation React
 
 Je me lance et décide d'apprendre React en suivant une formation en ligne.
+
+Mais la suite me fera comprendre que ce n'est pas avec 1 seule semaine de cours javascript que l'on comprends vraiment ce framework.
 
 Fonctionnalités du projet
 
@@ -271,3 +292,18 @@ Fonctionnalités du projet
 
 
 Ce projet a été démarré avec [Create React App](https://github.com/facebook/create-react-app).
+
+---
+
+### ![](https://img.shields.io/badge/Markdown-000) [![fork this repo](https://githubbadges.com/fork.svg?user=sandix34&repo=Mon-traqueur-d-apprentissage&style=default)](https://github.com/sandix34/Mon-traqueur-d-apprentissage/fork) Journal de mon apprentissage en développement Web.
+
+Suite à ma formation intensive de 4 mois chez O'clock sur le socle, je me sens découragée et déçue. Je ne suis en aucun employable. J'ai a peine les bases. Je me sens confrontée à une toute autre réalité.
+
+Après ce constant je décide de tout mettre en oeuvre pour réellement devenir développeuse web.
+
+Pour m'assurer d'atteindre mes objectifs je met en place mon traqueur d'apprentissage pour me rapeller d'où je viens et ne pas céder aux éventuels découragements en m'imposant une routine de coder quoiqu'il arrive.
+
+![trac](https://user-images.githubusercontent.com/44428775/72895491-c5cb4380-3d1d-11ea-8911-dfa9dd04660a.gif)
+
+
+
