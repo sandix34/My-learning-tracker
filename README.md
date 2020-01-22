@@ -2,7 +2,7 @@
 
 Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
-Tu trouveras une partie de tout ce que j'ai fais et d'où je suis partie 👉 [sur mon journal d'apprentissage](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log.md).
+## Tu trouveras une partie de tout ce que j'ai fais et d'où je suis partie 👉 [sur mon journal d'apprentissage](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log.md).
 
 ## Compétences
 

@@ -106,7 +106,7 @@ Un cours en ligne et j'en ai profité pour tester tailwindcss.
 
 ### ![](https://img.shields.io/badge/Vue.js-41b882) Une boutique en ligne simplifiée en Vuejs
 
-Un de mes premiers cours Vuejs qui va me faire laisser tomber React.
+Un de mes premiers cours Vuejs qui va révéler mon infidélité envers React.
 
 ![vue-shop](https://user-images.githubusercontent.com/44428775/66325890-507f6280-e928-11e9-87d4-cce2ce62c76d.gif)
 
@@ -116,7 +116,7 @@ Un de mes premiers cours Vuejs qui va me faire laisser tomber React.
 
 ### ![](https://img.shields.io/badge/React.js-60dafb) ![](https://img.shields.io/badge/OpenLayers-33bbce) [![star this repo](https://githubbadges.com/star.svg?user=sandix34&repo=OpenLayers-React-Collection&style=default)](https://github.com/sandix34/OpenLayers-React-Collection) Une collection d'exemples de code OpenLayers basés sur React présentée dans Gatsby-Docz
 
-Je découvre la Jamstack et Gatsby et j'insite avec mon projet OpenLayers pour le mettre en ligne mais c'est un échec au moment du build... et je n'y suis pas revenu.
+Je découvre la Jamstack et Gatsby et j'insiste avec mon projet OpenLayers pour le mettre en ligne mais c'est un échec au moment du build... et je n'y suis pas revenu.
 
 ![openreactgatsby](https://user-images.githubusercontent.com/44428775/60974218-ff140700-a329-11e9-9452-70a0182a94fe.gif)
 
@@ -126,7 +126,7 @@ Je découvre la Jamstack et Gatsby et j'insite avec mon projet OpenLayers pour l
 
 ### ![](https://img.shields.io/badge/React.js-60dafb) Exemples d'utilisation React hooks
 
-Un petit projet personnel pour tester antdesign et prismjs.
+Un petit projet personnel pour tester antdesign et prismjs. La canicule a raison de mon ordinateur et de ma motivation.
 
 ![hooks](https://user-images.githubusercontent.com/44428775/62221406-e3909f00-b3b1-11e9-91f0-0859cbe35a50.gif)
 
@@ -137,7 +137,7 @@ Un petit projet personnel pour tester antdesign et prismjs.
 
 ### ![](https://img.shields.io/badge/Svelte.js-fe3e00) Une application Svelte.js pour la planification de l'entraînement
 
-Un petit cours pour satisfaire ma curiosité au sujet de svelte.
+Un petit cours pour satisfaire ma curiosité au sujet de svelte. J'apprendrais plus tard que la curiosité est chronophage et je vais devoir être focus sur un sujet, voire me spécialiser adns un domaine.
 
 Gestion de formulaire avec le framework [Svelte](https://svelte.dev/)
 
@@ -178,7 +178,7 @@ Un cours en ligne histoire de voir le développement mobile.
 
 ### ![](https://img.shields.io/badge/React.js-60dafb) Une application de commerce électronique basée sur Reactjs et Stripe
 
-Suivi d'un cours en ligne toujours dans la continuité d'apprendre React.
+Suivi d'un cours en ligne toujours dans la continuité d'apprendre React. A ce moment là je ne sais pas que je vais l'abandonner. Je suis à fond dedans.
 
 ![e-commerce](https://user-images.githubusercontent.com/44428775/59182076-157f4500-8b69-11e9-8f8b-b5128a4c8356.gif)
 
@@ -192,7 +192,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 je m'essaye à créer un portfolio en React.
 
-Premier projet personnel me permettant de mettre en oeuvre mon apprentissage du developpement web depuis novembre 2018. 
+Premier projet personnel me permettant de mettre en oeuvre mon apprentissage du developpement web depuis novembre 2018.
+
+Je finis par penser que les portfolios sont inutile au fond.
 
 ![cvReact](https://user-images.githubusercontent.com/44428775/58253747-69b4b780-7d69-11e9-8faf-e3e4b44a0973.gif)
 
@@ -203,7 +205,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### ![](https://img.shields.io/badge/React.js-60dafb) Une application de recettes
 
-Je suis un autre cours react et je découvre Firebase.
+Je suis un autre cours react et je découvre Firebase pour la première fois.
 
 Fonctionnalités du projet
 
@@ -255,7 +257,9 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 ### ![](https://img.shields.io/badge/React.js-60dafb) ![](https://img.shields.io/badge/OpenLayers-33bbce) [![star this repo](https://githubbadges.com/star.svg?user=sandix34&repo=React-OpenLayers&style=default)](https://github.com/sandix34/React-OpenLayers) Une collection de composants React Avec OpenLayers 
 
-Je démarre un projet qui me tiens à coeur car j'ai un vif intérêt pour le webmapping
+Je démarre un projet qui me tiens à coeur car j'ai un vif intérêt pour le webmapping.
+
+C'est grâce à ce projet que je retrouve l'envie de coder. Et le fait d'avoir des github stars avec remerciements m'a redonnée confiance en moi.
 
 ![open](https://user-images.githubusercontent.com/44428775/60034050-0a203380-96aa-11e9-9fed-355cc8b4368e.gif)
 
@@ -297,11 +301,13 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 ### ![](https://img.shields.io/badge/Markdown-000) [![fork this repo](https://githubbadges.com/fork.svg?user=sandix34&repo=Mon-traqueur-d-apprentissage&style=default)](https://github.com/sandix34/Mon-traqueur-d-apprentissage/fork) Journal de mon apprentissage en développement Web.
 
-Suite à ma formation intensive de 4 mois chez O'clock sur le socle, je me sens découragée et déçue. Je ne suis en aucun employable. J'ai a peine les bases. Je me sens confrontée à une toute autre réalité.
+Suite à ma formation intensive de 4 mois chez O'clock sur le socle, je me sens découragée et déçue. Je ne suis en aucun cas employable. J'ai à peine les bases. Je me sens confrontée à une toute autre réalité.
 
 Après ce constant je décide de tout mettre en oeuvre pour réellement devenir développeuse web.
 
 Pour m'assurer d'atteindre mes objectifs je met en place mon traqueur d'apprentissage pour me rapeller d'où je viens et ne pas céder aux éventuels découragements en m'imposant une routine de coder quoiqu'il arrive.
+
+Ainsi je serais en mesure de prouver le temps que j'ai passée à coder.
 
 ![trac](https://user-images.githubusercontent.com/44428775/72895491-c5cb4380-3d1d-11ea-8911-dfa9dd04660a.gif)
 
