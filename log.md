@@ -167,7 +167,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## **Mai 2019**
 
-### ![](https://img.shields.io/badge/React.js-60dafb) Un portfolio
+### ![](https://img.shields.io/badge/React.js-60dafb) [![fork this repo](https://githubbadges.com/fork.svg?user=sandix34&repo=Portfolio-React&style=default)](https://github.com/sandix34/Portfolio-React/fork) Un portfolio
 
 je m'essaye à créer un portfolio en React.
 
