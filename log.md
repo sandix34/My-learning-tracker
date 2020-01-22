@@ -50,6 +50,7 @@ Sujets abordés :
 -  SEO et pré-rendu
 
 ![forum](https://user-images.githubusercontent.com/44428775/72885282-e6889e80-3d07-11ea-9475-8b0f982ac2be.gif)
+
 ---
 
 ### ![](https://img.shields.io/badge/Vue.js-41b882) Site de e-commerce et son interface d'administration Vuejs
@@ -115,7 +116,7 @@ Un petit projet personnel pour tester antdesign et prismjs. La canicule a raison
 
 ### ![](https://img.shields.io/badge/Svelte.js-fe3e00) Une application Svelte.js pour la planification de l'entraînement
 
-Un petit cours pour satisfaire ma curiosité au sujet de svelte. J'apprendrais plus tard que la curiosité est chronophage et je vais devoir être focus sur un sujet, voire me spécialiser adns un domaine.
+Un petit cours pour satisfaire ma curiosité au sujet de svelte. J'apprendrais plus tard que la curiosité est chronophage et je vais devoir être focus sur un sujet, voire me spécialiser dans un domaine.
 
 Gestion de formulaire avec le framework [Svelte](https://svelte.dev/)
 
@@ -237,7 +238,7 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 Je démarre un projet qui me tiens à coeur car j'ai un vif intérêt pour le webmapping.
 
-C'est grâce à ce projet que je retrouve l'envie de coder. Et le fait d'avoir des github stars avec remerciements m'a redonnée confiance en moi.
+C'est grâce à ce projet que je retrouve l'envie de coder. Et le fait d'avoir des github stars avec remerciements m'a redonné confiance en moi.
 
 ![open](https://user-images.githubusercontent.com/44428775/60034050-0a203380-96aa-11e9-9fed-355cc8b4368e.gif)
 
@@ -278,6 +279,8 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 ---
 
 ### ![](https://img.shields.io/badge/Markdown-000) [![fork this repo](https://githubbadges.com/fork.svg?user=sandix34&repo=Mon-traqueur-d-apprentissage&style=default)](https://github.com/sandix34/Mon-traqueur-d-apprentissage/fork) Journal de mon apprentissage en développement Web.
+
+C'est le départ de mon aventure 😁
 
 Suite à ma formation intensive de 4 mois chez O'clock sur le socle, je me sens découragée et déçue. Je ne suis en aucun cas employable. J'ai à peine les bases. Je me sens confrontée à une toute autre réalité.
 
