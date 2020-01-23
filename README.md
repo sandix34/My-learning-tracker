@@ -91,7 +91,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 ----
 
-### Voici une liste des choses que j'ai compris, utilisée ou simplement vu depuis debut 2018.
+### Glossaire du jargon
+>Un petit sous-ensemble des acronymes du jargon que je connais maintenant.
 
 - **AJAX** : «Asynchronous JavaScript and XML», récupérer des données dans le navigateur sans provoquer une actualisation de la page
 - **API** : Application Programming Interface
