@@ -293,9 +293,7 @@ Ce projet a été démarré avec [Create React App](https://github.com/facebook/
 
 > C'est le départ de mon aventure 😁
 
-> Suite à ma formation intensive de 4 mois chez O'clock sur le socle, je me sens découragée et déçue. Je ne suis en aucun cas employable. J'ai à peine les bases. Je me sens confrontée à la réalité.
-
-> Après ce constat je décide de tout mettre en oeuvre pour réellement devenir développeuse web.
+> Je décide de tout mettre en oeuvre pour réellement devenir développeuse web.
 
 > Pour m'assurer d'atteindre mes objectifs je met en place mon traqueur d'apprentissage pour me rapeller d'où je viens et ne pas céder aux éventuels découragements en m'imposant une routine de coder quoiqu'il arrive.
 
