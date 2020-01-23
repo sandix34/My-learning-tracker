@@ -24,7 +24,7 @@ En cours
 
 ## Bilan 2019
 
-Je finis ma formation initiale en février. Je suis confrontée à la réalité que l'on ne deviens pas développeur web en 4 mois. Mon moral est entamé. En mars je cherche une solution et regarde les choses en face. En avril je décide de planifier mon auto-formation en vu de monter en compétence.
+Je finis ma formation initiale en février. Je suis confrontée à la réalité que l'on ne devient pas développeur web en 4 mois. Mon moral est entamé. En mars je cherche une solution et regarde les choses en face. En avril je décide de planifier mon auto-formation en vu de monter en compétences.
 
 L'erreur que j'ai faite c'est d'apprendre un framawork avant de bien connaître javascript. Seulement trouver une formation javascript complète et en Français était mission impossible jusqu'en décembre.
 
