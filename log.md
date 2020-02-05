@@ -7,14 +7,8 @@
 
 ### Voici une liste chronologique non exhaustive de ce que j'ai appris, essayée, testée....
 
-##  **Janvier 2020**
+##  **2020** 👉 [ici](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log2020.md)
 
-En cours 
-
-- ![](https://img.shields.io/badge/JavaScript-f0db4e) un blog en vanilla javascript / Objectif maîtriser javascript
-- ![](https://img.shields.io/badge/Node.js-88c601) Une application Twitter avec nodejs - Express - MongoDB / Objectif avoir une vision fullstack javascript
-- ![](https://img.shields.io/badge/D3.js-f38748) Apprentissage de D3js / Objectif un amusement en plus de OpenLayers, attendez-vous à une collection d'exemples Vuejs-D3js
-- et .....  ????
 
 
 ![buzz](https://user-images.githubusercontent.com/44428775/72896443-1348b000-3d20-11ea-8001-6a542f62555e.jpg)

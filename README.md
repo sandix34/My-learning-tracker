@@ -59,7 +59,8 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Janvier 2020       | Formation en ligne NodeJS | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![In Progress][In Progress] | Février 2020       | Formation en ligne NodeJS | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Janvier 2020       | Formation en ligne JavaScript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Novembre 2019 |  apprendre Vue.js en créant une application réelle d'un forum complet à partir de zéro | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)|
 | ![Completed][Completed] |  Octobre  2019      | Devenir opérationnel rapidement en Vue et Vuex      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Octobre 2019       | Formation en ligne Vuex | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
