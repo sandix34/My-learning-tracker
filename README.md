@@ -2,7 +2,7 @@
 
 Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
-## Tu trouveras une partie de tout ce que j'ai fais et d'où je suis partie 👉 [sur mon journal d'apprentissage](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log.md).
+## Tout ce que j'ai fais et d'où je suis partie 👉 [sur mon journal d'apprentissage](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log.md).
 
 ## Ma feuille de route pour devenir Full Stack Javascript
 
@@ -35,6 +35,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-openlayers4.png) OpenLayers** | ![done][done] | ![done][done] | |
 |**![](logos/netlify.jpg) Netlify** | ![done][done] |![done][done]  | |
 |**![](logos/firebase.jpg) Firebase** | ![done][done] |![done][done] | |
+|**![](logos/logo-sass.png) Sass** | ![done][done] |![done][done] | |
 |**![](logos/nodejs_01.jpg) NodeJs** | ![done][done] |  |  |
 |**![](logos/logo-react1.png) Reactjs** | ![done][done] | |  |
 |**![](logos/logo-redux1.png) Redux** | ![done][done] | | |
@@ -43,7 +44,6 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 |**![](logos/logo-jquery5.png) jQuery** | ![done][done] | | |
 |**![](logos/logo-sql4.png) SQL** | ![done][done] | | |
 |**![](logos/logo-mysql4.png) MySQL** | ![done][done] | | |
-|**![](logos/logo-sass.png) Sass** | ![done][done] | | |
 |**![](logos/logo-php.png) PHP** | ![done][done] | | |
 |**Axios** | ![done][done] |  |  |
 |**![](logos/gatsby.jpg) Gatsby** | ![done][done] | | |
@@ -120,6 +120,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 - **CORS** : acronyme de Cross-Origin Resource Sharing est un moyen pour les navigateurs de donner accès à un domaine donné
 - **WebSocket** : un protocole de communication Internet qui permet de communiquer dans les deux sens sur une seule connexion TCP
 - **CRUD** : create, read, update, delete, quatre opérations de base pour la persistance des données
+- **JWT** : JSON Web Tokens, un moyen populaire de permettre la validation sans état pour un client se connectant à un serveur.
 
 ----
 
