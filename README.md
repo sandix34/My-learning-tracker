@@ -4,6 +4,10 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 ## Tu trouveras une partie de tout ce que j'ai fais et d'où je suis partie 👉 [sur mon journal d'apprentissage](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log.md).
 
+## Ma feuille de route pour devenir Full Stack Javascript
+
+![fullastackjavascript](https://user-images.githubusercontent.com/44428775/74437615-b21c8400-4e68-11ea-8d80-134d946c1608.png)
+
 ## Compétences
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
