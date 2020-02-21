@@ -6,7 +6,10 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 ## Ma feuille de route pour devenir Full Stack Javascript
 
-![fullastackjavascript](https://user-images.githubusercontent.com/44428775/74437615-b21c8400-4e68-11ea-8d80-134d946c1608.png)
+Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
+
+![diagramFullStack](https://user-images.githubusercontent.com/44428775/75017342-16ed6500-548d-11ea-9eb3-a5f817747037.png)
+
 
 ## Compétences
 
@@ -128,9 +131,7 @@ Un journal complet de mes compétences en développement Web, mon apprentissage,
 
 Je suis actuellement intéressé par:
 
-+ ![](logos/vuejs.jpg) Vue.js
 + ![](logos/logo-openlayers4.png) webmapping avec OpenLayers
-+ ![](logos/d3js.jpg) data visualization avec D3js
 ----
 
 ## Réalisations
