@@ -21,7 +21,8 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 |**![](logos/logo-css3.png) CSS3** | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-javascript1.png) JavaScript** | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-es6.png) ES6** | ![done][done] | ![done][done] | ![done][done] |                |
-|**![](logos/vuejs.jpg) Vue.js** | ![done][done] | ![done][done] | ![done][done] |                |
+|**![](logos/vuejs.jpg) Vue.js** | ![done][done] | ![done][done] |  |
+|**![](logos/angular_01.jpg) Angular** | ![done][done] |  |  |               |
 |**![](logos/logo-git.png) Git** | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-github.png) GitHub**  | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-npm.png) NPM** | ![done][done] | ![done][done] | ![done][done] |
@@ -53,8 +54,6 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 |**![](logos/parcel.jpg) Parcel** | ![done][done] |  |  |
 |**![](logos/svelte.jpg) Svelte.js 3** | ![done][done] |  | |
 |**![](logos/tailwindCSS.jpg) Tailwind CSS** | ![done][done] |  |  |
-|**![](logos/graphql.jpg) GraphQL** |  |  |  |
-|**![](logos/d3js.jpg) D3js** |  |  |  |
 ----
 ## Apprentissage
 
@@ -132,7 +131,7 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 
 Je suis actuellement intéressé par:
 
-+ ![](logos/logo-openlayers4.png) webmapping avec OpenLayers
++ ![](logos/angular_01.jpg) Angular
 ----
 
 ## Réalisations
