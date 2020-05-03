@@ -65,7 +65,8 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Mars 2020       | Formation en ligne Angular | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![In Progress][In Progress] | Mai 2020       | Formation en ligne Angular Avancée | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Mars / Avril 2020       | Formation en ligne Angular V9.0 | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Février 2020       | Formation en ligne NodeJS | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Janvier 2020       | Formation en ligne JavaScript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Novembre 2019 |  apprendre Vue.js en créant une application réelle d'un forum complet à partir de zéro | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)|
