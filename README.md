@@ -20,9 +20,9 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 |**![](logos/logo-html7.png) HTML5** | ![done][done]| ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-css3.png) CSS3** | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-javascript1.png) JavaScript** | ![done][done] | ![done][done] | ![done][done] |
-|**![](logos/logo-es6.png) ES6** | ![done][done] | ![done][done] | ![done][done] |                |
-|**![](logos/vuejs.jpg) Vue.js** | ![done][done] | ![done][done] |  |
-|**![](logos/angular_01.jpg) Angular** | ![done][done] |  |  |               |
+|**![](logos/logo-es6.png) ES6** | ![done][done] | ![done][done] | ![done][done] |
+**![](logos/typescript-logo.jpg) Typescript** | ![done][done] | ![done][done] | ![done][done] |                |
+|**![](logos/angular_01.jpg) Angular** | ![done][done] | ![done][done] |![done][done] |
 |**![](logos/logo-git.png) Git** | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-github.png) GitHub**  | ![done][done] | ![done][done] | ![done][done] |
 |**![](logos/logo-npm.png) NPM** | ![done][done] | ![done][done] | ![done][done] |
@@ -30,6 +30,7 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 |**![](logos/logo-markdown6.png) Markdown** | ![done][done] | ![done][done] | ![done][done] |
 |**CSS Grid & Flex-box** | ![done][done] | ![done][done] | ![done][done] |
 |**Responsive design** | ![done][done] | ![done][done] | ![done][done] |
+|**![](logos/vuejs.jpg) Vue.js** | ![done][done] | ![done][done] |  |
 |**![](logos/logo-webpack3.png) Webpack 4** | ![done][done]  | ![done][done] | |
 |**Mobile first** | ![done][done] | ![done][done] | |
 |**Construction de site Web** | ![done][done] | ![done][done] | |
@@ -65,6 +66,8 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![Completed][Completed] | Juin 2020       | Formation en ligne Git 2.25.1  | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Mai 2020       | Formation en ligne Angular Avancée | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Mars / Avril 2020       | Formation en ligne Angular V9.0 | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Février 2020       | Formation en ligne NodeJS | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
