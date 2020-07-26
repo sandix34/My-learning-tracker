@@ -161,8 +161,32 @@ Je suis actuellement intéressé par:
 +  [StatusCode Weekly](https://webopsweekly.com/) Un bulletin hebdomadaire couvrant le développement de logiciels, les opérations Web, l'infrastructure, les plates-formes et les performances.
 +  [React Status](https://react.statuscode.com/) Un récapitulatif hebdomadaire des derniers liens et didacticiels React et React Native.
 +  [Vue Community](https://vue-community.org/) le guide du débutant de la communauté et de l'écosystème de Vue.js, rédigé et mis à jour par la communauté elle-même. 
-+  [Node Weekly](https://nodeweekly.com/) Un tour d'horizon gratuit, une fois par semaine, des nouvelles et des articles de Node.js.   
-  ---
++  [Node Weekly](https://nodeweekly.com/) Un tour d'horizon gratuit, une fois par semaine, des nouvelles et des articles de Node.js.
++ [Chris Ferdinandi](https://gomakethings.com/) vanilla JavaScript / Obtenez des conseils quotidiens pour les développeurs
+J'envoie un court e-mail chaque jour de la semaine avec des extraits de code, des outils, des techniques et des informations intéressantes provenant du Web.
++ [ng-newsletter](http://cur.ng-newsletter.com/) La newsletter     hebdomadaire gratuite du meilleur contenu Angular sur le Web.
+  Contenu sélectionné à la main par les experts en Angular - livré directement dans votre boîte de réception 
+---
+
+## Extension Chrome
+
++ [Daily](https://daily.dev/) DÉCOUVREZ LES ACTUALITÉS DE DEV
+SANS EFFORT 
+
+Daily est une extension de navigateur open source qui fournit des nouvelles de développement organisées à votre nouvel onglet.
+
+---
+
+## Les meilleures formations en ligne 🇫🇷
+
++ 💰 [Dyma](https://dyma.fr/r/5caa254dae2b340edb9fe802) Atteignez vos objectifs, apprenez à coder.
+Apprenez à créer de véritables applications Web, en partant de la base, avec les meilleurs frameworks
+
++ 💰 [Code Concept](https://codeconcept.teachable.com/) Formations Javascript par la pratique.
+
++ 💰 [JavaScript de Zéro](https://www.javascriptdezero.com/) Apprenez à maîtriser JavaScript (ES6+) et décrochez votre 1er job rapidement
+---
+
 
 
 ### Liste de contrôle de développement Web
