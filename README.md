@@ -153,6 +153,7 @@ Je suis actuellement intéressé par:
 +  [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
 +  :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/) Des bases aux sujets avancés avec des explications simples mais détaillées.
 +  [Best of Javascript](https://bestofjs.org/) Découvrez les projets open source les plus populaires et les dernières tendances concernant la plate-forme Web et Node.js.
++ 👍 [Comprendre le fonctionnement interne de Javascript, du moteur V8 mais aussi des Web API](https://dev.to/lydiahallie) avec des shémas intéractif concoctés par [Lydia Hallie](https://twitter.com/lydiahallie). 
 ---
 ## Newsletters 
 
