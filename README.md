@@ -66,7 +66,8 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 
 |            Status           |   Année   | Cours                                                          |                Lien                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| ![In Progress][In Progress]| octobre 2020       | Formation en ligne Vanilla JS Academy | [![Dyma](logos/Go-Make-Things.png)](https://vanillajsacademy.com/)|
+| ![Completed][Completed] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Juin 2020       | Formation en ligne Git 2.25.1  | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Mai 2020       | Formation en ligne Angular Avancée | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Mars / Avril 2020       | Formation en ligne Angular V9.0 | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
@@ -166,7 +167,9 @@ Je suis actuellement intéressé par:
 + [Chris Ferdinandi](https://gomakethings.com/) vanilla JavaScript / Obtenez des conseils quotidiens pour les développeurs
 J'envoie un court e-mail chaque jour de la semaine avec des extraits de code, des outils, des techniques et des informations intéressantes provenant du Web.
 + [ng-newsletter](http://cur.ng-newsletter.com/) La newsletter     hebdomadaire gratuite du meilleur contenu Angular sur le Web.
-  Contenu sélectionné à la main par les experts en Angular - livré directement dans votre boîte de réception 
+  Contenu sélectionné à la main par les experts en Angular - livré directement dans votre boîte de réception
++ [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) Un tour d'horizon gratuit, une fois par semaine, d'articles, d'outils, de conseils, de didacticiels et de liens inspirants sur le design réactif.
++ [Web Tools Weekly](https://webtoolsweekly.com/) Cette newsletter regorge de liens vers tous les types d'outils liés au front-end.
 ---
 
 ## Extension Chrome
@@ -186,6 +189,8 @@ Apprenez à créer de véritables applications Web, en partant de la base, avec 
 + 💰 [Code Concept](https://codeconcept.teachable.com/) Formations Javascript par la pratique.
 
 + 💰 [JavaScript de Zéro](https://www.javascriptdezero.com/) Apprenez à maîtriser JavaScript (ES6+) et décrochez votre 1er job rapidement
+
++ 💰 [Vanilla JS Academy](https://vanillajsacademy.com/) Un programme de formation JavaScript en ligne basé sur des projets pour les débutants.
 ---
 
 
