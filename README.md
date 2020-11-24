@@ -136,7 +136,7 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 
 Je suis actuellement intéressé par:
 
-+ ![](logos/angular_01.jpg) Angular
++ [L'actualité sur l'intelligence artificielle](https://www.actuia.com/tutoriels-intelligence-artificielle/)
 ----
 
 ## Réalisations
@@ -147,7 +147,7 @@ Je suis actuellement intéressé par:
 ----
 
 ## Ressources
-
++ [MDN web docs](https://developer.mozilla.org/fr/) Des ressources pour les développeurs, par les développeurs. 
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 + :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
 +  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
@@ -170,6 +170,7 @@ J'envoie un court e-mail chaque jour de la semaine avec des extraits de code, de
   Contenu sélectionné à la main par les experts en Angular - livré directement dans votre boîte de réception
 + [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/) Un tour d'horizon gratuit, une fois par semaine, d'articles, d'outils, de conseils, de didacticiels et de liens inspirants sur le design réactif.
 + [Web Tools Weekly](https://webtoolsweekly.com/) Cette newsletter regorge de liens vers tous les types d'outils liés au front-end.
++ [Hacker Newsletter](https://hackernewsletter.com/) Une newsletter hebdomadaire des meilleurs articles sur les startups, la technologie, la programmation, etc. Tous les liens sont organisés à la main à partir du site populaire Hacker News.
 ---
 
 ## Extension Chrome
@@ -181,16 +182,17 @@ Daily est une extension de navigateur open source qui fournit des nouvelles de d
 
 ---
 
-## Les meilleures formations en ligne 🇫🇷
+## Les meilleures formations en ligne 
 
-+ 💰 [Dyma](https://dyma.fr/r/5caa254dae2b340edb9fe802) Atteignez vos objectifs, apprenez à coder.
++🇫🇷 💰 [Dyma](https://dyma.fr/r/5caa254dae2b340edb9fe802) Atteignez vos objectifs, apprenez à coder.
 Apprenez à créer de véritables applications Web, en partant de la base, avec les meilleurs frameworks
 
-+ 💰 [Code Concept](https://codeconcept.teachable.com/) Formations Javascript par la pratique.
++🇫🇷 💰 [Code Concept](https://codeconcept.teachable.com/) Formations Javascript par la pratique.
 
-+ 💰 [JavaScript de Zéro](https://www.javascriptdezero.com/) Apprenez à maîtriser JavaScript (ES6+) et décrochez votre 1er job rapidement
++🇫🇷 💰 [JavaScript de Zéro](https://www.javascriptdezero.com/) Apprenez à maîtriser JavaScript (ES6+) et décrochez votre 1er job rapidement
 
-+ 💰 [Vanilla JS Academy](https://vanillajsacademy.com/) Un programme de formation JavaScript en ligne basé sur des projets pour les débutants.
++🇺🇸 💰 [Vanilla JS Academy](https://vanillajsacademy.com/) Un programme de formation JavaScript en ligne basé sur des projets pour les débutants.
+
 ---
 
 
