@@ -64,36 +64,36 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Année   | Cours                                                          |                Lien                        |
-|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress]| octobre 2020       | Formation en ligne Vanilla JS Academy | [![Dyma](logos/Go-Make-Things.png)](https://vanillajsacademy.com/)|
-| ![Completed][Completed] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
+| Status | Année | Cours | Lien | total 4351,87€ 
+|:----:|:----|:-----|:----:| :----:|
+| ![In Progress][In Progress]| octobre 2020       | Formation en ligne Vanilla JS Academy | [![Dyma](logos/Go-Make-Things.png)](https://vanillajsacademy.com/)| 284,87 |
+| ![Completed][Completed] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)| 350 |
 | ![Completed][Completed] | Juin 2020       | Formation en ligne Git 2.25.1  | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Mai 2020       | Formation en ligne Angular Avancée | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Mars / Avril 2020       | Formation en ligne Angular V9.0 | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Février 2020       | Formation en ligne NodeJS | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Janvier 2020       | Formation en ligne JavaScript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
-| ![Completed][Completed] | Novembre 2019 |  apprendre Vue.js en créant une application réelle d'un forum complet à partir de zéro | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)|
+| ![Completed][Completed] | Novembre 2019 |  apprendre Vue.js en créant une application réelle d'un forum complet à partir de zéro | [![Vue School](logos/vueshool2.jpg)](https://vueschool.io/courses/nuxtjs-fundamentals)| 100 |
 | ![Completed][Completed] |  Octobre  2019      | Devenir opérationnel rapidement en Vue et Vuex      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] | Octobre 2019       | Formation en ligne Vuex | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![In Progress][In Progress] | Septembre 2019       | Concevoir avec Tailwind CSS est une série de vidéos gratuites qui vous apprend à créer des interfaces utilisateur entièrement réactives et conçues de manière professionnelle à l'aide de Tailwind CSS. | [![Tailwindcss](logos/tailwindcss100.jpg)](https://tailwindcss.com/screencasts/)|
 | ![Completed][Completed] | Septembre 2019       | Formation en ligne Vue.js | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
-| ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
-| ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
+| ![completed][completed] |  Août  2019      | Svelte.js 3 par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) | 84|
+| ![Completed][Completed] |   Août 2019      | Découverte de svelte JS| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) | 250|
 | ![completed][completed] |   Juillet 2019      | Gatsby PRO (notions avancées)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   juillet 2019      | Les React Hooks par la pratique      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Juin 2019      | Créer un blog avec Gatsby (+ Ant design et Netlify CMS)| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   Juin 2019      | Découvir React Native et créer des apps mobiles| [![Hardcoders](logos/hardcoder.jpg)](https://courses.hardcode.rs/) |
 | ![Completed][Completed] |   Mai 2019      | Devenir opérationnel en React volume 1, 2 & 3      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
-| ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) |
+| ![Completed][Completed] | Mai 2019       | Apprendre le WebMapping avec OpenLayers| [![Geomatick](logos/logo-geomatick.png)](https://www.geomatick.com/formations-sig-qgis-geoserver-openlayers-leaflet/) | 39
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Webpack 4      | [![CodeConcept](logos/codeConceptLogo.jpg)](https://codeconcept.teachable.com/) |
 | ![Completed][Completed] |   Avril 2019      | Formation en ligne Redux les bases      | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/) |
 | ![Completed][Completed] | Avril 2019       | Formation en ligne React | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
 | ![Completed][Completed] | Avril 2019       | Formation en ligne JavaScript (ES6+), Module débutant | [![javascriptdezero](logos/javascriptdezero.jpg)](https://www.javascriptdezero.com/)|
 | ![Completed][Completed]     | Avril 2019       | Préparation en ligne et certification « Maîtrise de la qualité en projet web » | [![opquast](logos/logo-opquast.png)](https://www.opquast.com/formation/)
-| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)|
-| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) |
-| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress | [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)  |
+| ![Completed][Completed]     | Mars 2019        | Développement moderne Javascript et ES6, ES7 | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/javascript-es6-es7/)| 12|
+| ![Completed][Completed]     | Février 2019     | Vraiment bien comprendre javascript | [![Udemy](logos/logo-udemy.png)](https://www.udemy.com/comprendre-javascript/) | 12
+| ![Completed][Completed]     | Février 2019     | AdminSys, Introduction à Symfony, React et Wordpress | [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)  | 3200
 | ![Completed][Completed]     | Janvier 2019     | Introduction au framework Lumen | [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)  |
 | ![Completed][Completed]     | Janvier 2019     | AJAX, JSON, API, jQuery, MCD(Modèle Conceptuel de Données), MLD(Modèle Logique de Données)                                          | [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/)  |
 | ![Completed][Completed]     | Décembre 2018    | MVC (Modèle-Vue-Contôleur), Composeur, Héritage, POO, SEO, Modélisation de la BDD, Agile  | [![O 'Clock](logos/logo-oclock.png)](https://oclock.io/) |
@@ -150,11 +150,13 @@ Je suis actuellement intéressé par:
 + [MDN web docs](https://developer.mozilla.org/fr/) Des ressources pour les développeurs, par les développeurs. 
 + :fr: [les meilleurs développeurs web Français sur YouTube...](https://www.ledevweb.fr/) de [Jérémy Mouzin](https://www.javascriptdezero.com/#10)
 + :us: [Manuel du developpeur front end 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) de  [Cody Lindley](http://codylindley.com/)
-+  :fr: [Veille technologique pour les développeurs web](https://thewhale.cc/) de [Gilles Vauvarin](https://thewhale.cc/about)
 +  [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) Feuille de triche pour la connaissance de JavaScript que vous rencontrerez fréquemment dans des projets modernes.
 +  :thumbsup: [The Modern JavaScript Tutorial](http://javascript.info/) Des bases aux sujets avancés avec des explications simples mais détaillées.
 +  [Best of Javascript](https://bestofjs.org/) Découvrez les projets open source les plus populaires et les dernières tendances concernant la plate-forme Web et Node.js.
-+ 👍 [Comprendre le fonctionnement interne de Javascript, du moteur V8 mais aussi des Web API](https://dev.to/lydiahallie) avec des shémas intéractif concoctés par [Lydia Hallie](https://twitter.com/lydiahallie). 
++ 👍 [Comprendre le fonctionnement interne de Javascript, du moteur V8 mais aussi des Web API](https://dev.to/lydiahallie) avec des shémas intéractif concoctés par [Lydia Hallie](https://twitter.com/lydiahallie).
++ [Mastering JS](https://masteringjs.io/?utm_campaign=Mastering%20JS%20Weekly&utm_medium=email&utm_source=Revue%20newsletter) JavaScript Full Stack, expliqué.
++ [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) Extraits de code JavaScript courts pour tous vos besoins de développement.
++ [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Il s'agit d'une série de livres plongeant profondément dans les mécanismes de base du langage JavaScript.
 ---
 ## Newsletters 
 
@@ -192,6 +194,12 @@ Apprenez à créer de véritables applications Web, en partant de la base, avec 
 +🇫🇷 💰 [JavaScript de Zéro](https://www.javascriptdezero.com/) Apprenez à maîtriser JavaScript (ES6+) et décrochez votre 1er job rapidement
 
 +🇺🇸 💰 [Vanilla JS Academy](https://vanillajsacademy.com/) Un programme de formation JavaScript en ligne basé sur des projets pour les débutants.
+
+---
+
+## Emploi
+
+[Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) Contenu soigneusement sélectionné pour vous aider à réussir votre prochain entretien technique.
 
 ---
 
