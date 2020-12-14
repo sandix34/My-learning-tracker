@@ -64,8 +64,9 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-| Status | Année | Cours | Lien | total 4351,87€ 
+| Status | Année | Cours | Lien | total 4516,58€ 
 |:----:|:----|:-----|:----:| :----:|
+| ![In Progress][In Progress]| Décembre 2020       | Formation en ligne questions d'entretien technique JavaScript| [![](logos/cake.png)](https://www.interviewcake.com/)| 164,71 |
 | ![In Progress][In Progress]| octobre 2020       | Formation en ligne Vanilla JS Academy | [![Dyma](logos/Go-Make-Things.png)](https://vanillajsacademy.com/)| 284,87 |
 | ![Completed][Completed] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)| 350 |
 | ![Completed][Completed] | Juin 2020       | Formation en ligne Git 2.25.1  | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)|
