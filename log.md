@@ -7,7 +7,7 @@
 
 ### Voici une liste chronologique non exhaustive de ce que j'ai appris, essayée, testée....
 
-##  **2021** 👉 [ici](https://github.com/sandix34/My-learning-tracker/blob/master/log2020.md)
+##  **2021** 👉 [ici](https://github.com/sandix34/My-learning-tracker/blob/master/log2021.md)
 ##  **2020** 👉 [ici](https://github.com/sandix34/Mon-traqueur-d-apprentissage/blob/master/log2020.md)
 
 
