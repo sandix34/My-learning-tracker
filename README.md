@@ -64,9 +64,10 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-| Status | Année | Cours | Lien | total 4516,58€ 
+| Status | Année | Cours | Lien | total 6346,58€ 
 |:----:|:----|:-----|:----:| :----:|
-| ![In Progress][In Progress]| Février 2021 / janvier 2022       | Formation diplômante Graduate Développeur Angular|[Studi Digital Campus](https://www.studi.fr/formation/code-developpement/graduate-developpeur-angular) |  |
+| ![In Progress][In Progress]| Mai 2021 | Formation en ligne Docker|[![Dyma](logos/logo-dyma.png)](https://dyma.fr/) | 130 |
+| ![In Progress][In Progress]| Février 2021 / janvier 2022       | Formation diplômante Graduate Développeur Angular|[Studi Digital Campus](https://www.studi.fr/formation/code-developpement/graduate-developpeur-angular) | 1700 |
 | ![In Progress][In Progress]| Décembre 2020       | Formation en ligne questions d'entretien technique JavaScript| [![](logos/cake.png)](https://www.interviewcake.com/)| 164,71 |
 | ![Completed][Completed]| octobre 2020       | Formation en ligne Vanilla JS Academy | [![Dyma](logos/Go-Make-Things.png)](https://vanillajsacademy.com/)| 284,87 |
 | ![Completed][Completed] | Juin 2020       | Formation en ligne Typescript | [![Dyma](logos/logo-dyma.png)](https://dyma.fr/)| 350 |
