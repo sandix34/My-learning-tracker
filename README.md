@@ -140,6 +140,7 @@ Objectifs 2020 :  Aprrendre Nodejs, Angular et voir les tests.
 Je suis actuellement intéressé par:
 
 + [L'actualité sur l'intelligence artificielle](https://www.actuia.com/tutoriels-intelligence-artificielle/)
++ Le DevOps
 ----
 
 ## Réalisations
