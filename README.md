@@ -1,4 +1,11 @@
 # Mon traqueur d'apprentissage
+**Archive — parcours d’apprentissage web 2018–2021**
+
+ Ce dépôt retrace mon apprentissage du développement web sur cette période.
+ Je le conserve comme historique de progression, de formations et de projets réalisés.
+
+ Depuis 2026, je reprends une pratique technique orientée Linux, Raspberry Pi, Python,
+ Git/GitHub et projets IoT.
 
 Un journal complet de mes compétences en développement Web, mon apprentissage, mes ressources, mes centres d'intérêt et tout ce qui concerne mon apprentissage. C'est un moyen de suivre, d'organiser et de partager mes apprentissages.
 
